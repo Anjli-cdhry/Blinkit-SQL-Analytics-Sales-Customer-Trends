@@ -1,5 +1,5 @@
 
-#  Blinkit Sales & Customer Analytics Using SQL
+#  Blinkit SQL Analytics: Sales & Customer Trends
 
 ##  Overview
 
